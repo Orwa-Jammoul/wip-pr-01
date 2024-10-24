@@ -1,0 +1,10 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.main-nav{
+  background-color: black;
+  margin: 0;
+  height: 2.5em;
+  color: white;
+}
